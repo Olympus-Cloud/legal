@@ -1,5 +1,6 @@
 # Loi du 1er juillet 1901 et du décret du 16 août 1901.
 
+_________________
 
 ## ARTICLE PREMIER - NOM
 
