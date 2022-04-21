@@ -93,5 +93,6 @@ En cas de dissolution prononcée selon les modalités prévues à l’article 12
 
 *Fait à Paris, le jeudi 21 avril 2022*
 
-Marwane Lahlou, Président
-Abdoullah Vanden Broeck, Vice-Président
+### Signatures
+- Marwane Lahlou, Président
+- Abdoullah Vanden Broeck, Vice-Président
