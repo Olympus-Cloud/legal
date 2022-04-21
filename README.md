@@ -1,5 +1,4 @@
-### Proposé aux associations déclarées par application de la
-### Loi du 1er juillet 1901 et du décret du 16 août 1901.
+# Loi du 1er juillet 1901 et du décret du 16 août 1901.
 
 
 # ARTICLE PREMIER - NOM
