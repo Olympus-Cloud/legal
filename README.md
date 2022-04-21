@@ -22,9 +22,9 @@ La durée de l’association est illimitée.
 ## ARTICLE 5 - COMPOSITION 
 
 L'association se compose de :
-a) Président et Vice-Président
-b) Techniciens et Supports
-c) Investisseurs
+- Président et Vice-Président
+- Techniciens et Supports
+- Investisseurs
 
 ## ARTICLE 6 - ADMISSION 
 
