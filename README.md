@@ -100,4 +100,3 @@ _________________
 
 ### Signatures
 - Marwane Lahlou, Président
-- Abdoullah Vanden Broeck, Vice-Président
